@@ -26,6 +26,12 @@
 - Если видите `PARTIAL`, можно сохранить промежуточный результат через `Save TXT`.
 - Кнопка `Stop` возвращает оригинальный `fetch` в странице.
 
+## 🔗 Полезная альтернатива
+Если вам нужен другой подход и вы хотите изучить смежный проект на GitHub, посмотрите:
+
+- [vectorserver/yandex_music_fisher_mod: browser-id3-writer.6.0.0.mjs](https://github.com/vectorserver/yandex_music_fisher_mod/blob/master/html/bs5/browser-id3-writer.6.0.0.mjs)
+- Сторонний проект: права на код и лицензия принадлежат авторам оригинального репозитория.
+
 ## 🛠 Технологии
 - JavaScript (Vanilla)
 - Fetch API
