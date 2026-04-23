@@ -1,5 +1,5 @@
 (function () {
-    const VERSION = "v1.0 API-Only Bootstrap";
+    const VERSION = "v5.0 API-Only";
     const THEME = { bg: "#1A1A1B", accent: "#D7FF00", main: "#FFFFFF" };
     const API_HOST_RE = /^api\.music\.yandex\.(ru|net|kz|by|com)$/i;
 
